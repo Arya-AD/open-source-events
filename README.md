@@ -288,6 +288,9 @@ The calendar is automatically updated daily, ensuring you always have the latest
 - [Beam College Online Training](https://beamcollege.dev/)
    > Date: 21st - 23rd April || Mode: Virtual
 
+- [The Carpentries Plotting and Programming in Python Instats Seminar](https://instats.org/seminar/plotting-and-programming-in-python)
+   > Date: 22nd - 23rd April || Mode: Virtual
+
 - [Django Girls Mombasa](https://djangogirls.org/en/mombasa/)
    > Date: 24th April || Mode: In-person || Location: Mombasa, Kenya.
 
