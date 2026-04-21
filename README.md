@@ -499,6 +499,9 @@ Durham, North Carolina,, USA.
 - [posit::conf(2026)](https://posit.co/conference/)
   > Date: 14th - 16th September || Mode: Hybrid || Location: Houston, Texas, USA.
 
+- [PyCon Cameroon + Ubucon Cameroon](https://cm.pycon.org)
+   > Date: 17th - 19th September || Mode: In-person || Location: Yaounde, Cameroon.
+
 - [Nerdearla Argentina](https://nerdear.la/)
   > Date: 22nd - 26th September || Mode: Hybrid || Location: Buenos Aires, Argentina.
 
