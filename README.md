@@ -418,7 +418,10 @@ Durham, North Carolina,, USA.
 
 - [Open Source in Finance Forum London](https://events.linuxfoundation.org/open-source-finance-forum-london/)
    > Date: 25th June || Mode: In-person || Location: London, England.
-   
+
+- [The Perl and Raku Conference](https://tprc.us/)
+    > Date: 25th - 29th June || Mode: In-person || Location: Greenville, South Carolina, USA.
+
 - [Automotive Open Source Summit 2026](https://www.automotive-oss.org/event/2026/summary)
    > Date: 30th June || Mode: In-person || Location: Starnberg, Germany.    
 </details>
